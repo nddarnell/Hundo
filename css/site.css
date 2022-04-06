@@ -56,3 +56,6 @@ footer .social>a:hover{
 .checklist>li i{
     color: var(--secondary-color)
 }
+.logoFont{
+    font-family: 'Racing Sans One', cursive;
+}
