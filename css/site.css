@@ -4,6 +4,14 @@
     --dark-color: #171614;
     --white-color: #E4DFDA;
 }
+
+.odd{
+    font-weight: 100;
+}
+.even{
+    font-weight: bold;
+}
+
 body{
     color: var(--dark-color)
 }
